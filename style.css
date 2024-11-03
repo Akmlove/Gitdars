@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+  .qator1{
+    background-color: chocolate;
+    text-align: center;
+  }
+  .body{
+    text-align: center;
+  }
+  .btn{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 20px;
+    border-radius: 20px;
+  }
